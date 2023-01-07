@@ -6,7 +6,9 @@ Currently we only offer downloads with labeled data. The unlabeled data will be 
 
 # How to get the dataset
 
-Signed the following copyright announcement with your name and organization. Then complete the form online(https://forms.gle/n9NxWsm1k7hZCcYq5) and **mail** to logosg@foxmail.com ('#'->'@'), we will send you the corpus by e-mail when approved.
+[Download link](https://drive.google.com/drive/folders/1x1B6-Ucus5nlAtqMNRZClx2v2M_RMVcF?usp=share_link)
+
+Signed the following copyright announcement with your name and organization. Then complete the form online(https://forms.gle/n9NxWsm1k7hZCcYq5) and **mail** to logosg@foxmail.com, we will provide access rights when approved.
 
 # Copyright
 
